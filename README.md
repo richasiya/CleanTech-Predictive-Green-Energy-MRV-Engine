@@ -2,9 +2,8 @@
 
 ## Project Overview
 
-CleanTech is a prototype energy management and Measurement, Reporting, and Verification (MRV) platform designed to analyze renewable energy generation, energy consumption, and energy deficits.
+An AI/ML-based academic project for renewable energy forecasting, energy deficit analysis, and data-driven recommendations. Currently in the prototype stage, using simulated energy data to demonstrate predictive analytics and green energy monitoring concepts.
 
-The project uses simulated energy data to demonstrate energy monitoring, Machine Learning-based consumption prediction, and preliminary energy-saving recommendations.
 
 ## Features
 
