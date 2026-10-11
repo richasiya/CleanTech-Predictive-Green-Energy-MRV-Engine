@@ -1,0 +1,97 @@
+timestamp,condition,energy_kwh,recommendation
+2026-01-01 00:00:00,Energy Deficit,31.84,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 00:30:00,Energy Deficit,1.4500000000000028,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 00:45:00,Energy Deficit,6.879999999999996,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 01:00:00,Energy Deficit,45.61,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 01:15:00,Energy Deficit,40.35,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 01:30:00,Energy Deficit,51.290000000000006,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 01:45:00,Energy Deficit,2.719999999999999,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 02:00:00,Energy Deficit,2.470000000000006,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 02:30:00,Energy Deficit,22.23,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 03:00:00,Energy Deficit,3.0600000000000023,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 03:15:00,Energy Deficit,13.21,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 03:30:00,Energy Deficit,14.170000000000002,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 03:45:00,Energy Deficit,39.15,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 04:30:00,Energy Deficit,12.68,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 04:45:00,Energy Deficit,20.69,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 05:00:00,Energy Deficit,4.420000000000002,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 05:15:00,Energy Deficit,23.27,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 05:30:00,Energy Deficit,21.03,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 05:45:00,Energy Deficit,5.380000000000003,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 06:30:00,Energy Deficit,34.650000000000006,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 06:45:00,Energy Deficit,31.059999999999995,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 07:00:00,Energy Deficit,17.119999999999997,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 07:15:00,Energy Deficit,36.87,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 07:45:00,Energy Deficit,13.97,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 08:00:00,Energy Deficit,32.22,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 08:30:00,Energy Deficit,7.289999999999999,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 09:00:00,Energy Deficit,43.05,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 09:15:00,Energy Deficit,38.620000000000005,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 09:30:00,Energy Deficit,3.719999999999999,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 09:45:00,Energy Deficit,16.64,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 10:00:00,Energy Deficit,31.6,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 10:15:00,Energy Deficit,5.880000000000003,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 10:30:00,Energy Deficit,23.82,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 11:00:00,Energy Deficit,4.039999999999999,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 11:30:00,Energy Deficit,25.29,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 11:45:00,Energy Deficit,0.0600000000000022,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 12:00:00,Energy Deficit,29.580000000000005,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 12:15:00,Energy Deficit,53.17999999999999,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 12:30:00,Energy Deficit,0.9200000000000016,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 13:15:00,Energy Deficit,11.819999999999991,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 13:45:00,Energy Deficit,12.79,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 14:00:00,Energy Deficit,56.220000000000006,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 14:15:00,Energy Deficit,39.53,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 14:30:00,Energy Deficit,14.810000000000002,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 14:45:00,Energy Deficit,19.29,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 15:00:00,Energy Deficit,26.179999999999996,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 15:15:00,Energy Deficit,8.880000000000003,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 15:45:00,Energy Deficit,14.870000000000005,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 16:00:00,Energy Deficit,41.040000000000006,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 16:15:00,Energy Deficit,13.060000000000002,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 16:30:00,Energy Deficit,28.079999999999995,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 17:00:00,Energy Deficit,44.06,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 17:45:00,Energy Deficit,32.059999999999995,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 18:00:00,Energy Deficit,58.99,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 18:15:00,Energy Deficit,2.039999999999999,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 18:30:00,Energy Deficit,3.990000000000002,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 18:45:00,Energy Deficit,16.32,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 19:15:00,Energy Deficit,28.51,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 19:30:00,Energy Deficit,26.55,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 19:45:00,Energy Deficit,48.12,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 20:00:00,Energy Deficit,2.70000000000001,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 20:15:00,Energy Deficit,22.64,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 20:30:00,Energy Deficit,10.180000000000009,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 20:45:00,Energy Deficit,39.13,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 21:00:00,Energy Deficit,34.56,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 21:15:00,Energy Deficit,32.47,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 21:45:00,Energy Deficit,7.399999999999999,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 22:00:00,Energy Deficit,11.079999999999998,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 22:15:00,Energy Deficit,1.7100000000000009,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 22:30:00,Energy Deficit,17.700000000000003,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 23:30:00,Energy Deficit,3.210000000000001,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 23:45:00,Energy Deficit,4.079999999999998,"Consider shifting flexible loads to a surplus interval, if operationally feasible."
+2026-01-01 00:15:00,Renewable Surplus,5.770000000000003,Consider scheduling flexible loads during this interval.
+2026-01-01 02:15:00,Renewable Surplus,12.020000000000003,Consider scheduling flexible loads during this interval.
+2026-01-01 02:45:00,Renewable Surplus,2.6700000000000017,Consider scheduling flexible loads during this interval.
+2026-01-01 04:00:00,Renewable Surplus,8.599999999999998,Consider scheduling flexible loads during this interval.
+2026-01-01 04:15:00,Renewable Surplus,10.969999999999999,Consider scheduling flexible loads during this interval.
+2026-01-01 06:00:00,Renewable Surplus,0.9299999999999997,Consider scheduling flexible loads during this interval.
+2026-01-01 06:15:00,Renewable Surplus,2.3200000000000003,Consider scheduling flexible loads during this interval.
+2026-01-01 07:30:00,Renewable Surplus,17.990000000000002,Consider scheduling flexible loads during this interval.
+2026-01-01 08:15:00,Renewable Surplus,22.89,Consider scheduling flexible loads during this interval.
+2026-01-01 08:45:00,Renewable Surplus,4.140000000000001,Consider scheduling flexible loads during this interval.
+2026-01-01 10:45:00,Renewable Surplus,11.009999999999998,Consider scheduling flexible loads during this interval.
+2026-01-01 11:15:00,Renewable Surplus,12.200000000000003,Consider scheduling flexible loads during this interval.
+2026-01-01 12:45:00,Renewable Surplus,9.0,Consider scheduling flexible loads during this interval.
+2026-01-01 13:00:00,Renewable Surplus,22.38,Consider scheduling flexible loads during this interval.
+2026-01-01 13:30:00,Renewable Surplus,5.93,Consider scheduling flexible loads during this interval.
+2026-01-01 15:30:00,Renewable Surplus,14.409999999999997,Consider scheduling flexible loads during this interval.
+2026-01-01 16:45:00,Renewable Surplus,21.939999999999998,Consider scheduling flexible loads during this interval.
+2026-01-01 17:15:00,Renewable Surplus,1.450000000000017,Consider scheduling flexible loads during this interval.
+2026-01-01 17:30:00,Renewable Surplus,14.43,Consider scheduling flexible loads during this interval.
+2026-01-01 19:00:00,Renewable Surplus,9.419999999999995,Consider scheduling flexible loads during this interval.
+2026-01-01 21:30:00,Renewable Surplus,1.8900000000000006,Consider scheduling flexible loads during this interval.
+2026-01-01 22:45:00,Renewable Surplus,18.0,Consider scheduling flexible loads during this interval.
+2026-01-01 23:00:00,Renewable Surplus,0.5,Consider scheduling flexible loads during this interval.
+2026-01-01 23:15:00,Renewable Surplus,6.459999999999997,Consider scheduling flexible loads during this interval.
